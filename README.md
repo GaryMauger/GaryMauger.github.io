@@ -1,6 +1,6 @@
-# GaryMauger.github.io
-
 # Gary Mauger - Data Analyst/Data Scientist Portfolio
+
+GaryMauger.github.io
 
 ## À propos de moi
 Bonjour, je m'appelle Gary.
