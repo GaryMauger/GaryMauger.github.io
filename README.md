@@ -1,4 +1,4 @@
-# Gary Mauger - Data Analyst/Data Scientist Portfolio
+# Gary Mauger - Portfolio d'analyse de données
 
 GaryMauger.github.io
 
